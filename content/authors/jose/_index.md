@@ -37,6 +37,14 @@ organizations:
 role: B. Sc. em Economia | Analista de Aquisições
 
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/joserobertoamchambr/
+  
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JoseRobertoMir3
+  
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/jroberto_mcorreia
@@ -45,9 +53,8 @@ social:
   icon_pack: fab
   link: https://www.facebook.com/joseroberto.m.correia
   
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/JoseRobertoMir3
+
+  
 
 superuser: true
 user_groups:
